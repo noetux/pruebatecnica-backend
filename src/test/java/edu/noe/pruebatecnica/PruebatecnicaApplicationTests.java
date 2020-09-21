@@ -1,4 +1,4 @@
-package edu.noe.curso;
+package edu.noe.pruebatecnica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
